@@ -6,7 +6,6 @@ function createElement(tag,attrs,...children){
     }
     
 }
-
 const element =(
     <div>
         hello
